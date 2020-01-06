@@ -1,2 +1,3 @@
 # terraform-ecs-fargate
-Terraform scripts to create AWS ECS Fargate
+
+Terraform script to create AWS ECS with Fargate.
